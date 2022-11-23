@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana del 19 de diciembre</td>
     <td>
       <b>Kick off</b>
       <p>
@@ -20,9 +20,9 @@
     </td>
     <td>
       <ul>
-        <li>Readme del proyecto</li>
-        <li>Pildora: Cómo funciona un proceso de selección</li>
-        <li>Q&A Readme del proyecto (Slido)</li>
+        <li> <a href= https://github.com/Laboratoria/DEV002-job-application/blob/main/README.md> Readme del proyecto</li>
+        <li> <a href= https://www.loom.com/share/eff20dfbb64a488abb6181acd95a8dbf> Pildora: Cómo funciona un proceso de selección</li>
+        <li> <a href= https://app.sli.do/event/iA745whNae6Z8eKgp1bPcD> Q&A Readme del proyecto (Slido)</li>
       </ul>
     </td>
     <td>NA</td>
@@ -33,7 +33,8 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td><li>Taller: martes 20 de diciembre</li>
+    <li>Working session: martes 3 de enero</td>
     <td>
       <b>Autoconocimiento</b>
       <p>
@@ -46,15 +47,16 @@
     </td>
     <td>
       <ul>
-        <li>Taller: Historia de vida y habilidades transferibles.</li>
-        <li>Píldora: About me y pitch.</li>
+        <li> <a href= https://docs.google.com/presentation/d/1DVkE0yc1u730u0S_mLrlTpzoZR_iQlnubma4hlgswKI/edit#slide=id.g10daaaee466_0_36> Pre-trabajo taller.</li>
+        <li> <a href= https://docs.google.com/presentation/d/1HzaNvB4koarDftWzCkBQD-phedSFVMKHOWopWfiiuI8/edit#slide=id.g108f9f34ebd_0_0> Taller: Historia de vida y habilidades transferibles.</li>
+        <li> <a href= https://docs.google.com/presentation/d/18L3EXGPmOAJoZYdthmJ7xiEu2wOrTUzdsoDgG-2qJRY/edit#slide=id.g10f517c8353_0_0> Píldora: About me y pitch.</li>
         <li>Espacio grupal para compartir “about me” y dar y recibir feedback.</li>
       </ul>
     </td>
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 3 al 13 de enero</td>
     <td>
       <b>Preparación de CV y Linkedin</b>
       <p>
@@ -68,17 +70,17 @@
     </td>
     <td>
       <ul>
-        <li>Pildora: CV en la industria tech.</li>
-        <li>Pildora: Funcionamiento de Linkedin</li>
-        <li>Píldora: Recomendaciones para la foto.</li>
-        <li>Ayudantías con el equipo (opcionales).</li>
+        <li> <a href= https://www.loom.com/share/b682c1f7b7964641a5fe1b8acfcf4b8e> Píldora: CV en la industria tech.</li>
+        <li>Píldora: Funcionamiento de Linkedin</li>
+        <li> <a href= https://www.loom.com/share/8c43a7129e654962bb53ea1a74088a9b> Píldora: Recomendaciones para la foto.</li>
+        <li>Ayudantías(OH) con el equipo (opcionales).</li>
         <li>Q&A externxs / placement.</li>
       </ul>
     </td>
-    <td>Primera versión del CV + LinkedIn</td>
+    <td> Semana del 9 de enero: primera versión del CV + LinkedIn</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 9 al 20 de enero</td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -95,7 +97,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana del 9 de enero</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
