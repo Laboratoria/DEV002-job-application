@@ -21,14 +21,14 @@
     </td>
     <td>
       <ul>
-        <li>Readme del proyecto</li>
+        <li> <a href= https://github.com/Laboratoria/DEV002-job-application> Readme del proyecto</li>
         <li>
           <a href="https://www.loom.com/share/eff20dfbb64a488abb6181acd95a8dbf">Pildora: Cómo funciona un proceso de selección</a>
           <a href="https://docs.google.com/presentation/d/17xch4mAAjUGS6H7rTosIK2UBRJoCrrNAIWta-CldLUw/edit#slide=id.geb2e9575b7_0_0">
             (PPT)
           </a>
         </li>
-        <li>Q&A Readme del proyecto</li>
+        <li> <a href= https://app.sli.do/event/iA745whNae6Z8eKgp1bPcD> Q&A Readme del proyecto</li>
       </ul>
     </td>
     <td>NA</td>
@@ -54,13 +54,10 @@
     </td>
     <td>
       <ul>
-        <li>Pre work del taller (slide 2 de la PPT del taller).</li>
+        <li> <a href="https://docs.google.com/presentation/d/1DVkE0yc1u730u0S_mLrlTpzoZR_iQlnubma4hlgswKI/edit#slide=id.g10daaaee466_0_36">Pre work del taller (slide 2 de la PPT del taller).</li>
         <li>
           <a href="https://docs.google.com/presentation/d/1HzaNvB4koarDftWzCkBQD-phedSFVMKHOWopWfiiuI8/edit#slide=id.g108f9f34ebd_0_0">
             Taller: Historia de vida y habilidades transferibles.
-          </a>
-          <a href="https://docs.google.com/presentation/d/1DVkE0yc1u730u0S_mLrlTpzoZR_iQlnubma4hlgswKI/edit#slide=id.g10daaaee466_0_36">
-            (Pre-work)
           </a>
         </li>
         <li>
@@ -169,7 +166,7 @@
     </td>
     <td>
       <ul>
-        <li>Q&A Readme del proyecto</li>
+        <li> <a href= https://app.sli.do/event/iA745whNae6Z8eKgp1bPcD> Q&A Readme del proyecto</li>
       </ul>
     </td>
     <td>NA</td>
