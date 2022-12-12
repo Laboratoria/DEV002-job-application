@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td>Semana del 19 de diciembre</td>
+    <td>Semana del 19.12</td>
     <td>
       <b>Kick off</b>
       <p>
@@ -40,8 +40,8 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td><li>Taller: martes 20 de diciembre</li>
-    <li>Working session: martes 3 de enero</li></td>
+    <td><li>Taller: martes 20.12</li>
+    <li>Working session: martes 03.01</li></td>
     <td>
       <b>Autoconocimiento</b>
       <p>
@@ -72,7 +72,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td>Del 3 al 13 de enero</td>
+    <td>Del 03.01 al 13.01</td>
     <td>
       <b>Preparación de CV y LinkedIn</b>
       <p>
@@ -123,7 +123,7 @@
     </td>
   </tr>
   <tr>
-    <td>Del 9 al 20 de enero</td>
+    <td>Del 09.01 al 20.01</td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -155,7 +155,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td>Semana del 9 de enero</td>
+    <td>Semana del 09.01</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
