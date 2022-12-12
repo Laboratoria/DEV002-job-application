@@ -123,8 +123,7 @@
     </td>
   </tr>
   <tr>
-    <td><li>1era simulación: entre el 9 y el 13 de enero</li>
-<li>2da simulación: entre el 16 y el 20 de enero</li></td>
+    <td>Del 9 al 20 de enero</td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
