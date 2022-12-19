@@ -178,7 +178,7 @@
         Sesiones de revisión de herramientas y simulación de entrevista RH
       </b>
     </td>
-    <td rowspan="2">Del 16 al 27.01</td>
+    <td rowspan="2">Semana del 16.01</td>
     <td rowspan="2">
       <b>Sesión de revisión y feedback de CV + LinkedIn</b>
       <p>
@@ -230,7 +230,7 @@
     </td>
   </tr>
   <tr>
-    <td>Del 30.01 al 03.02</td>
+    <td>Del 23.01 al 03.02</td>
     <td>
     <b>Sesión de seguimiento a la incorporación de feedback de CV + LinkedIn</b>
       <p>
@@ -269,10 +269,10 @@
     <td>
       <ul>
         <li>
-          Feedback de entrevistadora/or sobre
+          Hasta el 24.02: Feedback de entrevistadora/or sobre
           entrevista y CV + LinkedIn.
         </li>
-        <li>Autoevaluación de entrevista y de CV + LinkedIn.</li>
+        <li>Hasta el 24.02: Autoevaluación de entrevista y de CV + LinkedIn.</li>
         <li>Tercera versión de CV</li>
         <li>Perfil de LinkedIn con mejoras incorporadas</li>
       </ul>
