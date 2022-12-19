@@ -72,7 +72,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td>Del 03.01 al 13.01</td>
+    <td>Hasta el 13.01</td>
     <td>
       <b>Preparación de CV y LinkedIn</b>
       <p>
@@ -178,7 +178,7 @@
         Sesiones de revisión de herramientas y simulación de entrevista RH
       </b>
     </td>
-    <td rowspan="2"><!-- aqui la fecha --></td>
+    <td rowspan="2">Del 16 al 27.01</td>
     <td rowspan="2">
       <b>Sesión de revisión y feedback de CV + LinkedIn</b>
       <p>
@@ -230,7 +230,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 30.01 al 03.02</td>
     <td>
     <b>Sesión de seguimiento a la incorporación de feedback de CV + LinkedIn</b>
       <p>
@@ -249,7 +249,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 06 al 17.02</td>
     <td>
       <b>Simulación de entrevista RH</b>
       <p>
@@ -308,7 +308,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Martes 21 de febrero</td>
     <td>
       <b>Retrospectiva grupal de mentorías RH</b>
       <p>
