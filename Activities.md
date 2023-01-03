@@ -41,7 +41,7 @@
       </b>
     </td>
     <td><li>Taller: martes 20.12</li>
-    <li>Working session: martes 03.01</li></td>
+    <li>Working session: martes 10.01</li></td>
     <td>
       <b>Autoconocimiento</b>
       <p>
