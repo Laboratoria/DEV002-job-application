@@ -155,7 +155,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td>Semana del 09.01</td>
+    <td>Lunes 16.01</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
