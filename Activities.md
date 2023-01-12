@@ -178,7 +178,7 @@
         Sesiones de revisión de herramientas y simulación de entrevista RH
       </b>
     </td>
-    <td rowspan="2">Semana del 16.01</td>
+    <td rowspan="2">Viernes 20.01</td>
     <td rowspan="2">
       <b>Sesión de revisión y feedback de CV + LinkedIn</b>
       <p>
@@ -308,7 +308,7 @@
     </td>
   </tr>
   <tr>
-    <td>Martes 21 de febrero</td>
+    <td>Martes 21.02</td>
     <td>
       <b>Retrospectiva grupal de mentorías RH</b>
       <p>
