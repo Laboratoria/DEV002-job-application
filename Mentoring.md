@@ -73,7 +73,7 @@ Para que envíes el correo toma en cuenta las siguientes recomendaciones:
   equipo para lograr este objetivo de aprendizaje.
 
 La vacante a la que estarás postulando es la que encuentras en este
-[link](https://docs.google.com/document/d/1AQMpRAisd8X1raxhYzW7mviCB1sN42Okg32_ewfgTDI/edit).
+[link](https://docs.google.com/document/d/1Re0P4xnzR4TBKER82SPBjcpospmbU9xBZGnvDu16pEo/edit).
 Es importante que tengas encuenta lo que se describe para la simulación.
 
 ## Recuerda que el feedback es un regalo
