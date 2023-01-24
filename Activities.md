@@ -187,7 +187,7 @@
     </td>
     <td rowspan="2">
       <ul>
-        <li>Guía sesiones de mentoría (apartado en el read me)</li>
+        <li><a href= https://github.com/Laboratoria/DEV002-job-application/blob/main/Mentoring.md#mentor%C3%ADas-de-recursos-humanos>Guía sesiones de mentoría (apartado en el read me)</li>
       </ul>
     </td>
     <td>Primera versión del CV</td>
@@ -238,7 +238,7 @@
       </p>
     </td>
     <td>
-      Guía sesiones de mentoría (apartado en el read me).
+      <a href= https://github.com/Laboratoria/DEV002-job-application/blob/main/Mentoring.md#mentor%C3%ADas-de-recursos-humanos>Guía sesiones de mentoría (apartado en el read me).
     </td>
     <td>
       <li>Segunda versión del CV</li>
@@ -260,9 +260,9 @@
     </td>
     <td>
       <ul>
-        <li>Guía sesiones de mentoría (apartado en el read me).</li>
+        <li><a href= https://github.com/Laboratoria/DEV002-job-application/blob/main/Mentoring.md#mentor%C3%ADas-de-recursos-humanos> Guía sesiones de mentoría (apartado en el read me).</li>
         <li>
-          Form autoevaluación estudiante y evaluación a mentora/or
+          <a href= https://docs.google.com/forms/d/e/1FAIpQLSdb29I3VmFhfpnZLP3L9vbBkqObDqWqCOKtGbkljSSpKINP2g/viewform> Form autoevaluación estudiante y evaluación a mentora/or
         </li>
       </ul>
     </td>
@@ -339,7 +339,7 @@
     </td>
     <td>
       <ul>
-        <li>Guía de sesiones de preparación (apartado en el read me).</li>
+        <li><a href= https://github.com/Laboratoria/DEV002-job-application/blob/main/Mentoring.md#mentor%C3%ADa-tech>Guía de sesiones de preparación (apartado en el read me).</li>
       </ul>
     </td>
     <td>NA</td>
@@ -417,7 +417,7 @@
     </td>
     <td>
       <ul>
-        <li>Guía sesiones de mentoría (apartado en el read me).</li>
+        <li><a href = https://github.com/Laboratoria/DEV002-job-application/blob/main/Mentoring.md#mentor%C3%ADa-tech>Guía sesiones de mentoría (apartado en el read me).</li>
         <li>Form autoevaluación estudiante y evaluación a mentora/or.</li>
       </ul>
     </td>
