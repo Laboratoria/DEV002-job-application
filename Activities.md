@@ -326,7 +326,8 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td><li>1ra sesión: jueves 09.02</li>
+      <li>2da sesión: jueves 23.02</li></td>
     <td>
       <b>
         Sesiones de preparación para la simulación de entrevista tech
@@ -346,7 +347,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Desde el 06.02</td>
     <td>
       <b>Preparación perfil Github</b>
       <p>
@@ -379,7 +380,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana el 20.02 (por definir)</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>
@@ -403,7 +404,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 06.03 al 17.03</td>
     <td>
       <b>Simulación de entrevista técnica </b>
       <p>
@@ -466,7 +467,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Jueves 23.03</td>
     <td>
       <b>Retrospectiva grupal de mentorías Tech</b>
       <p>
