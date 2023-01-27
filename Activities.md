@@ -425,11 +425,11 @@
     <td>
       <ul>
         <li>
-          Feedback de entrevistadorx sobre performance en
+          Hasta el 24.03: Feedback de entrevistadorx sobre performance en
           entrevista y sobre el perfil de GitHub.
         </li>
         <li>
-          Autoevaluación de entrevista del perfil de GitHub.
+          Hasta el 24.03: Autoevaluación de entrevista del perfil de GitHub.
         </li>
         <li>
           Perfil de GitHub con recomendaciones incorporadas.
