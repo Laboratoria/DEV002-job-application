@@ -269,10 +269,10 @@
     <td>
       <ul>
         <li>
-          Hasta el 24.02: Feedback de entrevistadora/or sobre
+          <b>Hasta el 24.02:</b> Feedback de entrevistadora/or sobre
           entrevista y CV + LinkedIn.
         </li>
-        <li>Hasta el 24.02: Autoevaluación de entrevista y de CV + LinkedIn.</li>
+        <li><b>Hasta el 24.02:</b> Autoevaluación de entrevista y de CV + LinkedIn.</li>
         <li>Tercera versión de CV</li>
         <li>Perfil de LinkedIn con mejoras incorporadas</li>
       </ul>
@@ -425,11 +425,11 @@
     <td>
       <ul>
         <li>
-          Hasta el 24.03: Feedback de entrevistadorx sobre performance en
+          <b>Hasta el 24.03:</b> Feedback de entrevistadorx sobre performance en
           entrevista y sobre el perfil de GitHub.
         </li>
         <li>
-          Hasta el 24.03: Autoevaluación de entrevista del perfil de GitHub.
+          <b>Hasta el 24.03:</b> Autoevaluación de entrevista del perfil de GitHub.
         </li>
         <li>
           Perfil de GitHub con recomendaciones incorporadas.
