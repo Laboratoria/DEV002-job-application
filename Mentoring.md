@@ -37,7 +37,7 @@ Las 3 sesiones que se contemplan en estas mentorías son:
     directamente con tu mentora/or y serás tu la responsable de establecer
     este contacto.
 - 1 simulación de entrevista de recursos humanos: Este simulacro lo tendrás con
-  otra persona de la industria diferente a la que te dió recomendaciones sobre
+  otra persona de la industria diferente a la que te dio recomendaciones sobre
   tu CV y LinkedIn y serás tú quién coordine todo para que suceda (en un
   apartado de más abajo te dejamos algunas recomendaciones). Esto lo hacemos
   para que la experiencia sea lo más parecida a la realidad.
@@ -61,25 +61,25 @@ enviarías para aplicar a una vacante en procesos de reclutamiento abiertos que
 encontramos en distintas plataformas y que indican que es necesario que te
 pongas en contacto con alguna persona para confirmar tu interés.
 
-Para que envíes el correo toma en cuenta las siguientes recomendaciones:
+Para que envíes el correo, toma en cuenta las siguientes recomendaciones:
 
 - Mantener un lenguaje cordial, profesional, presentarte y comentar el interés
   de participar en el proceso
 - Para el caso de ambas entrevistas adjunta tu CV, el link a tu perfil de
-  LinkedIn y en el caso de de la entrevista tech adjunta también el link a tu
+  LinkedIn y en el caso de la entrevista tech, adjunta también el link a tu
   perfil de Github.
-- Demuestra tu proactividad proponiendo 2 o 3 posibles fechas y hora para
+- Demuestra tu proactividad proponiendo 2 o 3 posibles fechas y horarios para
   realizar la sesión, tomando en cuenta los tiempos que te ha compartido el
   equipo para lograr este objetivo de aprendizaje.
 
 La vacante a la que estarás postulando es la que encuentras en este
 [link](https://docs.google.com/document/d/1Re0P4xnzR4TBKER82SPBjcpospmbU9xBZGnvDu16pEo/edit).
-Es importante que tengas encuenta lo que se describe para la simulación.
+Es importante que tengas en cuenta lo que se describe para la simulación.
 
 ## Recuerda que el feedback es un regalo
 
 Al finalizar las sesiones no olvides agradecer a la persona que te acompañó por
-la oportunidad y aprovecha para pedirle su feedback. Sí sucede en ese momento o
+la oportunidad y aprovecha para pedirle su feedback. Si sucede en ese momento o
 no, de todos modos recuérdale que estás en un proceso de aprendizaje y que será
 muy importante para ti recibir sus comentarios y recomendaciones a través del
 formulario que le compartimos desde el equipo de Laboratoria.
