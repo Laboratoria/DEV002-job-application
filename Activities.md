@@ -380,7 +380,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td>Semana el 20.02 (por definir)</td>
+    <td>Lunes 27 de febrero</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>
